@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8af963f-df9d-4fd7-b33a-c03ff19c8d87" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DOM-Manipulation-Accordion.html" afterPath="$PROJECT_DIR$/DOM-Manipulation-Accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM-Manipulation-DistanceConverter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM-Manipulation-Sections.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM-Manipulation-TimeConverter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom-Manipulation-Notifications.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/distanceConverter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/timeConverter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,68 +22,13 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DOM-Manipulation-Substract.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DOM-Manipulation-Substract.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="subtract.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/subtract.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="71" />
-              <folding>
-                <element signature="n#!!doc;n#subtract#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOM-Manipulation-FillDropdown.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DOM-Manipulation-FillDropdown.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dropdown.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dropdown.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc;n#addItem#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOM-Manipulation-Accordion.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DOM-Manipulation-Accordion.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -97,6 +48,12 @@
         <option value="$PROJECT_DIR$/DOM-Manipulation-FillDropdown.html" />
         <option value="$PROJECT_DIR$/dropdown.js" />
         <option value="$PROJECT_DIR$/DOM-Manipulation-Accordion.html" />
+        <option value="$PROJECT_DIR$/DOM-Manipulation-Sections.html" />
+        <option value="$PROJECT_DIR$/Dom-Manipulation-Notifications.html" />
+        <option value="$PROJECT_DIR$/DOM-Manipulation-TimeConverter.html" />
+        <option value="$PROJECT_DIR$/timeConverter.js" />
+        <option value="$PROJECT_DIR$/DOM-Manipulation-DistanceConverter.html" />
+        <option value="$PROJECT_DIR$/distanceConverter.js" />
       </list>
     </option>
   </component>
@@ -237,7 +194,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499451115538</updated>
-      <workItem from="1499451117521" duration="7311000" />
+      <workItem from="1499451117521" duration="15851000" />
     </task>
     <task id="LOCAL-00001" summary=":circus_tent: Added .gitattributes &amp; .gitignore files">
       <created>1499454830972</created>
@@ -250,13 +207,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7311000" />
+    <option name="totallyTimeSpent" value="15851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -333,6 +289,58 @@
         <state relative-caret-position="86">
           <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom-Manipulation-Notifications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="59" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM-Manipulation-Sections.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+          <folding>
+            <element signature="n#!!doc;n#attachEventsListeners#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM-Manipulation-TimeConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM-Manipulation-DistanceConverter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distanceConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="67" lean-forward="true" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc;n#attachEventsListeners#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
