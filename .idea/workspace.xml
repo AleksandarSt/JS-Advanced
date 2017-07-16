@@ -2,26 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8af963f-df9d-4fd7-b33a-c03ff19c8d87" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/Jquery-Book-Generator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/Jquery-IncrementCounter.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/Jquery-Timer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/incrementCounter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/timer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/JS-Advanced.iml" afterPath="$PROJECT_DIR$/.idea/JS-Advanced.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/Form-Validation/images/background3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Functions/Argument-Info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Functions/Functional-Sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Functions/Personal-BMI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Advanced-Functions/Sort-Array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/Dom-Search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/Form-Validation/formValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/Form-Validation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/Form-Validation/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/book-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jquery/dom-search.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DOM-Manipulation-Accordion.html" afterPath="$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-Accordion.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DOM-Manipulation-DistanceConverter.html" afterPath="$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-DistanceConverter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DOM-Manipulation-FillDropdown.html" afterPath="$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-FillDropdown.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DOM-Manipulation-Sections.html" afterPath="$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-Sections.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DOM-Manipulation-Substract.html" afterPath="$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-Substract.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DOM-Manipulation-TimeConverter.html" afterPath="$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-TimeConverter.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Dom-Manipulation-Notifications.html" afterPath="$PROJECT_DIR$/Dom-Manipulation/Dom-Manipulation-Notifications.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/distanceConverter.js" afterPath="$PROJECT_DIR$/Dom-Manipulation/distanceConverter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dropdown.js" afterPath="$PROJECT_DIR$/Dom-Manipulation/dropdown.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/subtract.js" afterPath="$PROJECT_DIR$/Dom-Manipulation/subtract.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/timeConverter.js" afterPath="$PROJECT_DIR$/Dom-Manipulation/timeConverter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Jquery/Jquery-Book-Generator.html" afterPath="$PROJECT_DIR$/Jquery/Book-Generator.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,85 +29,72 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Jquery-IncrementCounter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jquery/Jquery-IncrementCounter.html">
+      <file leaf-file-name="Dom-Search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jquery/Dom-Search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="799">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jquery-Timer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jquery/Jquery-Timer.html">
+      <file leaf-file-name="dom-search.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jquery/dom-search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="timer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jquery/timer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc;n#timer#0" expanded="false" />
+                <element signature="n#!!doc;n#domSearch#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Jquery-Book-Generator.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jquery/Jquery-Book-Generator.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOM-Manipulation-Accordion.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-Accordion.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOM-Manipulation-DistanceConverter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-DistanceConverter.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOM-Manipulation-FillDropdown.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-FillDropdown.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="incrementCounter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jquery/incrementCounter.js">
+      <file leaf-file-name="Sort-Array.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced-Functions/Sort-Array.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding>
-                <marker date="1499550893626" expanded="true" signature="746:1074" ph="..." />
+                <element signature="n#!!doc;n#sortArray#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Argument-Info.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced-Functions/Argument-Info.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc;n#getArgumentInfo#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Functional-Sum.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced-Functions/Functional-Sum.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#47#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Personal-BMI.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advanced-Functions/Personal-BMI.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#generateChart#0" expanded="false" />
+                <element signature="n#!!block;n#calculateStatus#0;n#!!block;n#generateChart#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -125,8 +105,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -159,6 +139,16 @@
         <option value="$PROJECT_DIR$/Jquery-Book-Generator.html" />
         <option value="$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-DistanceConverter.html" />
         <option value="$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-FillDropdown.html" />
+        <option value="$PROJECT_DIR$/Jquery/Book-Generator.html" />
+        <option value="$PROJECT_DIR$/Jquery/book-generator.js" />
+        <option value="$PROJECT_DIR$/Jquery/Form-Validation/style.css" />
+        <option value="$PROJECT_DIR$/Jquery/Form-Validation/formValidation.js" />
+        <option value="$PROJECT_DIR$/Jquery/Dom-Search.html" />
+        <option value="$PROJECT_DIR$/Jquery/dom-search.js" />
+        <option value="$PROJECT_DIR$/Advanced-Functions/Sort-Array.js" />
+        <option value="$PROJECT_DIR$/Advanced-Functions/Argument-Info.js" />
+        <option value="$PROJECT_DIR$/Advanced-Functions/Functional-Sum.js" />
+        <option value="$PROJECT_DIR$/Advanced-Functions/Personal-BMI.js" />
       </list>
     </option>
   </component>
@@ -218,7 +208,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jquery" />
+              <option name="myItemId" value="Advanced-Functions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -234,9 +224,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\JS-Advanced\Jquery" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\JS-Advanced\Jquery\Form-Validation" />
       <recent name="D:\Git\JS-Advanced\Jquery" />
       <recent name="D:\Git\JS-Advanced\Dom-Manipulation" />
     </key>
@@ -253,7 +248,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.Personal-BMI.js">
+    <configuration default="false" name="Sort-Array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Sort-Array.js" working-dir="$PROJECT_DIR$/Advanced-Functions">
+      <method />
+    </configuration>
+    <configuration default="false" name="Argument-Info.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Argument-Info.js" working-dir="$PROJECT_DIR$/Advanced-Functions">
+      <method />
+    </configuration>
+    <configuration default="false" name="Functional-Sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Functional-Sum.js" working-dir="$PROJECT_DIR$/Advanced-Functions">
+      <method />
+    </configuration>
+    <configuration default="false" name="Personal-BMI.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Personal-BMI.js" working-dir="$PROJECT_DIR$/Advanced-Functions">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -314,6 +321,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Sort-Array.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Argument-Info.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Functional-Sum.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Personal-BMI.js" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Personal-BMI.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Functional-Sum.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Argument-Info.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Sort-Array.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -325,7 +346,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499451115538</updated>
-      <workItem from="1499451117521" duration="27526000" />
+      <workItem from="1499451117521" duration="40580000" />
     </task>
     <task id="LOCAL-00001" summary=":circus_tent: Added .gitattributes &amp; .gitignore files">
       <created>1499454830972</created>
@@ -338,16 +359,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27526000" />
+    <option name="totallyTimeSpent" value="40580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -374,7 +396,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -441,16 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dom-Manipulation/distanceConverter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="67" lean-forward="true" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
-          <folding>
-            <element signature="n#!!doc;n#attachEventsListeners#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Jquery/incrementCounter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -487,14 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jquery/Jquery-Book-Generator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-Accordion.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -513,9 +517,120 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dom-Manipulation/DOM-Manipulation-FillDropdown.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jquery/Book-Generator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="64" lean-forward="false" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jquery/book-generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#createBook#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jquery/Form-Validation/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jquery/Form-Validation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jquery/Form-Validation/formValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jquery/Dom-Search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom-Manipulation/distanceConverter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="67" lean-forward="true" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc;n#attachEventsListeners#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jquery/dom-search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#domSearch#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Functions/Sort-Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc;n#sortArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Functions/Argument-Info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc;n#getArgumentInfo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Functions/Functional-Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced-Functions/Personal-BMI.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#generateChart#0" expanded="false" />
+            <element signature="n#!!block;n#calculateStatus#0;n#!!block;n#generateChart#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
