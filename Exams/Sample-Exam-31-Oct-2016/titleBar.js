@@ -39,3 +39,5 @@ class TitleBar {
         $(selector).append(header);
     }
 }
+
+console.log(new TitleBar('dggsd'));
